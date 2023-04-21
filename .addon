@@ -1,0 +1,20 @@
+{
+  "Title": "Look Target Test",
+  "Type": "map",
+  "Org": "duccsoft",
+  "Ident": "look_target_test",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "PackageReferences": [
+    "duccsoft.look_trigger"
+  ],
+  "EditorReferences": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}

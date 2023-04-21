@@ -1,0 +1,5 @@
+# Compilation output
+maps/*.vpk
+maps/*.los
+maps/*.sapaths
+maps/*.sareverb
